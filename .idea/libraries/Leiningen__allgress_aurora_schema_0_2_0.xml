@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: allgress/aurora-schema:0.2.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/allgress/aurora-schema/0.2.0/aurora-schema-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

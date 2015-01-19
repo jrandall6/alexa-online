@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: allgress/messaging:0.2.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/allgress/messaging/0.2.2/messaging-0.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

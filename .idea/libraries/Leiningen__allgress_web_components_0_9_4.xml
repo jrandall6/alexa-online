@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: allgress/web-components:0.9.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/allgress/web-components/0.9.4/web-components-0.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: allgress/configuration:0.2.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/allgress/configuration/0.2.2/configuration-0.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

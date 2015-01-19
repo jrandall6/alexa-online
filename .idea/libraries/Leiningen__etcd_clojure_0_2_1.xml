@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: etcd-clojure:0.2.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/etcd-clojure/etcd-clojure/0.2.1/etcd-clojure-0.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
